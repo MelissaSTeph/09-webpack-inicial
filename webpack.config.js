@@ -1,5 +1,5 @@
 const HtmlWebpack = require('html-webpack-plugin')
-const MiniCssExtract = require('mini-css-extract-plugin');
+const MiniCssExtract= require("mini-css-extract-plugin");
 
 
 
